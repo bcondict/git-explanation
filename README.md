@@ -1,3 +1,0 @@
-# Git explanation
-
-- Jesus Junco
